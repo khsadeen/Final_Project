@@ -1,0 +1,10 @@
+4111222233334444,123,12/26,100001,pass1,5000.75,Michal Elazar,Michalelazar@gmail.com,Gp7! kV9# zQr2 @xFb,0599999991,100.0,Bank Leumi-101,true
+4111222233334445,234,11/25,100002,pass2,4200.00,Khaled Zayed,Khaled@gmail.com,Zt6$ Mn2& Vp9! dKuA,0599999992,100.0,Bank Hapoalim-102,true
+4111222233334446,345,10/24,100003,pass3,210.50,Lea Mizrahi,Leamizrahi123@gmail.com,Qc1# Tf7* Lz5@ hYoW,0599999993,100.0,Discount Bank-103,true
+4111222233334447,456,09/26,100004,pass4,11500.00,Aseel A,aseel72806@gmail.com,Ht2$ Rx7* Ka9! mBpD,0599999994,100.0,Union Bank-104,true
+4111222233334448,567,08/27,100005,pass5,750.90,Dina Kassem,Dinassem90@gmail.com,Nj5@ Wc8! Ez3# qLuV,0599999995,100.0,Bank Mizrahi-105,true
+4111222233334449,678,07/25,100006,pass6,8900.10,Eden Shahar,Edenshahar45@gmail.com,Ay8$ Xn3! Kr6% wDbE,0599999996,100.0,First International-106,true
+4111222233334450,789,06/24,100007,pass7,999.99,Maya Hani,Maya7014hanii@gmail.com,Uv4^ Pq9@ Bt1* eJmZ,0599999997,100.0,Otzar Ha-Hayal-107,true
+4111222233334451,890,05/26,100008,pass8,1300.00,Firas Jamal,Firas2007@gmail.com,Dw7! Hx5& Zl2# nCvR,0599999998,100.0,Jerusalem Bank-108,true
+4111222233334452,901,04/25,100009,pass9,-100.0,Rivka Zohar,Rivkazoharr777@gmail.com,Rb3$ Yk8! Qf6@ mJoT,0599999999,100.0,Massad Bank-109,false
+4111222233334453,012,03/27,100010,pass10,10300.3,Sadeen Khatib,sadeen1alkhas@gmail.com,corr izbg oyiq rwwx,0599999910,100.0,Massad Bank-109,false
